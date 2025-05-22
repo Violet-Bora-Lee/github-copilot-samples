@@ -115,6 +115,8 @@ https://docs.github.com/en/copilot/using-github-copilot/ai-models/choosing-the-r
 ---
 
 GitHub 모델(Preview)
-https://www.linkedin.com/posts/learner-bora_%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%B3%84-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D%EC%9D%84-%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-github-%EB%AA%A8%EB%8D%B8-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A5%BC-activity-7331067836385128449-0yzz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAXuAxUBj_9JPz_p81tRPH1IYJdnzq0kVsI
+- https://www.linkedin.com/posts/learner-bora_%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%B3%84-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D%EC%9D%84-%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-github-%EB%AA%A8%EB%8D%B8-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A5%BC-activity-7331067836385128449-0yzz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAXuAxUBj_9JPz_p81tRPH1IYJdnzq0kVsI
+
+- https://www.youtube.com/watch?v=NgLhYqkU4YM
 
 ---
